@@ -1,0 +1,30 @@
+body {
+     background-image: url(../Cronômetro/bg.jpg);
+     background-repeat: no-repeat;
+     background-size: cover; 
+     background-position: center; 
+    }
+
+p {
+    text-align: center;
+    background: white;
+    margin: 20px 0;
+    padding: 10px;
+  }
+
+  p {
+  font-family:courier new;
+  font-size: 32px;
+  }
+
+  body {
+    text-align: center;
+    font-size: 50px;
+    background: white;
+    margin: 20px 0;
+    padding: 10px;
+  }
+
+  button {
+      font-family:courier new; 
+  }
